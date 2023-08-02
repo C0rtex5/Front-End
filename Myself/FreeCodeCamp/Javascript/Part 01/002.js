@@ -1,2 +1,0 @@
-var ourName
-var myName;
